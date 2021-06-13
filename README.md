@@ -3,7 +3,7 @@ Data Science and Business Analytics Task-1 (Predict the percentage of an student
 
 
 The Sparks Foundation Tasks
-This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+This repository contains the tasks that were mentioned.
 
 Internship Category - Data Science and Business Analytics
 Internship Duration - 1 Month ( JUNE-2021 )
